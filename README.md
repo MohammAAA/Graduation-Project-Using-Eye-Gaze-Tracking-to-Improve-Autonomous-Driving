@@ -15,5 +15,5 @@ The project is selected as one of the top 20 artificial intelligence graduation 
 - Mostafa Mohamed Hassan
 
 ## Project Supervisors:
-- Dr.Hassan Mostafa
-- Dr.Samah Elshafiey
+- Dr. Hassan Mostafa
+- Dr. Samah Elshafiey
